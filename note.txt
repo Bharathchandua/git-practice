@@ -2,5 +2,5 @@ this is my first git file
 Learning git today
 git tracks changes over time
 this line is from feature branch
-Line 1: Change from CONFLICT-DEMO branch
+Line 1: Change from MASTER branch
 This line is resolved and accepted
